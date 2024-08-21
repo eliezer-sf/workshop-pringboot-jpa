@@ -1,4 +1,4 @@
-package com.CRUD.project.entities;
+package com.web.project.entities;
 
 import java.io.Serializable;
 import java.util.Objects;
